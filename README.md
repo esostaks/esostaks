@@ -4,7 +4,7 @@
 <h4><br><br><br><br>ABOUT ME</h4>
 
 
-<p>My name is Edgars and I'm a passionate software developer. I have always had a natural interest about tech things, and it only increased as I got my first computer gifted to me as a teenager. I was especially curious about all the magic that happens behind the different software and apps that we use everyday and often caught myself thinking about how I would improve particular app and what cool features I would add if I were the developer. <br><br> And that is how I decided to immerse myself into coding and become a professional software developer. For now I am focusing on the frontend development. Feel free to browse some of my work. </p>
+<p>My name is Edgars and I'm a passionate software developer. I have always had a natural interest about tech things, and it only increased as I got my first computer gifted to me as a teenager. I was especially curious about all the magic that happens behind the different software and apps that we use everyday and often caught myself thinking about how I would improve particular app and what cool features I would add if I were the developer. <br><br> And that is how I decided to immerse myself into the world of coding and become a professional software developer. For now I am focusing on the frontend development. Feel free to browse some of my work. </p>
 
 <h4><br><br><br><br>TOOLS</h4>
 
